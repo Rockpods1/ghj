@@ -10,6 +10,6 @@ function Flash(){
 function Cloud() {
     document.getElementById("gameframe").src="./game.html";
 }
-function Custom(){
-
+function Minecraft(){
+    document.getElementById("gameframe").src="https://www.search-tap.org/minecraft/index.html";
 }
